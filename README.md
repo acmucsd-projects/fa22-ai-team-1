@@ -1,1 +1,4 @@
-# fa22-ai-team-1
+# The Hacktivists
+## Supreme Court Predictor
+
+### Authors
