@@ -19,7 +19,13 @@ After some searching, we selected [Washington University's Modern Dataset](http:
 Of the available dataset variations, we chose Case-Centered Data, which focused on the outcomes of specific cases. 
 
 ### Challenges
-
+The first challenge we encountered was figuring out our dataset. Because the outcome of a SCOTUS case is determined by so many different variables, there didn't appear to be many correlations between them at first.
+![image](https://user-images.githubusercontent.com/86854157/213310071-bf3acf1d-b520-496b-b5e2-6eeb4d4434ff.png)
+We also had to do quite a bit of processing on the values in the dataset, since there were many null and non-Integer values.
+![image](https://user-images.githubusercontent.com/86854157/213310173-c7aaf4ee-06a2-4fe6-91a7-4f374f982f37.png)
+Because none of us had have a strong foundation in law, much of the legal terminology also required research on our ends, so we could understand just what the dataset conveyed.
+After we overcame the first hurdle, we began building our models. We encountered the most errors when optimizing our model through K-Fold Cross Validation, which led to us doing many tasks manually.
+Lastly, as this was a first brush with AI and ACM Projects for many of us, we definitely had to work hard to manage our time and polish our skills!
 
 ### Project & Technologies
 ![image](https://user-images.githubusercontent.com/86854157/213307361-5441f828-9b43-40bb-957c-546a5deba0c5.png)
