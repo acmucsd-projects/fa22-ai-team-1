@@ -22,4 +22,4 @@ Nitya Pillar | [LinkedIn](https://www.linkedin.com/in/nitya-p-087b431ab) | [Gith
 Jenny Mar | [LinkedIn](www.linkedin.com/in/jenny-mar-13158225a) | [Github](https://github.com/jennymar) <br />
 Han Hoang | [LinkedIn](https://www.linkedin.com/in/hanhoangia/) ! [Github](https://github.com/hanhoangia) <br />
 Serena Cheng | [LinkedIn](www.linkedin.com/in/serenachen6) | [Github](https://github.com/schen126)  <br />
-Rushil Chandrupatla
+Rushil Chandrupatla | [LinkedIn](https://www.linkedin.com/in/rushil-chandrupatla-1aaa34205/) | [Github](https://github.com/rushilcs)  <br />
