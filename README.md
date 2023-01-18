@@ -14,13 +14,16 @@ Debates around the legitimacy of the Supreme Court and the uproar over Roe v. Wa
 
 ### Dataset
 ![image](https://user-images.githubusercontent.com/86854157/213307112-7b2fbc98-d049-4423-9af3-405c7d3855c1.png)
-*Image from The Supreme Court Database Homepage*
+*Image from The Supreme Court Database Homepage* <br />
 After some searching, we selected [Washington University's Modern Dataset](http://scdb.wustl.edu/data.php) of past Supreme Court Cases for its breadth of data values and relevance to our current times. <br />
 Of the available dataset variations, we chose Case-Centered Data, which focused on the outcomes of specific cases. 
 
+### Challenges
+
+
 ### Project & Technologies
 ![image](https://user-images.githubusercontent.com/86854157/213307361-5441f828-9b43-40bb-957c-546a5deba0c5.png)
-*Image from Deepnote's Homepage*
+*Image from Deepnote's Homepage* <br />
 All of our work was done on Deepnote, an virtual platform with processing power that allows for real-time collaboration. We created several notebooks in this environment: the first hosts our initial data loading, processing, and feature selection attempts (including our heatmap). The deep-learning notebook includes our neural network, and the pipeline notebook includes our exploratory data analysis, the sklearn pipeline we built for data processing, and our supervised learning models as well as their results. 
 
 View it and see the results here:  
