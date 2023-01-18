@@ -2,16 +2,23 @@
 ## Supreme Court Predictor
 ![image](https://user-images.githubusercontent.com/86854157/213305775-61c3d014-33db-4316-a4ae-07cbb8a7332f.png)
 *Image from Wikipedia*
+### Table of Contents
+* Background
+* Dataset
+* Project and Technologies
+* Presentation
+* Authors
+
 ### Background
-Debates around the legitimacy of the Supreme Court and the uproar over Roe v. Wade towards the later half of last year influenced us greatly as we were brainstorming ideas for our introductory machine learning project. When we poured through our options and studied the uses of AI, we arrived upon a question we were curious on finding the answer to: can the predictive power of machine learning be used to predict the outcomes of Supreme Court cases?
+Debates around the legitimacy of the Supreme Court and the uproar over Roe v. Wade towards the later half of 2022 influenced us greatly as we brainstormed ideas for our introductory machine learning project. As we pored through our options and studied the uses of AI, we arrived upon this project: can the predictive power of machine learning be used to predict the outcomes of Supreme Court cases?
 
 ### Dataset
 After some searching, we selected [Washington University's Modern Dataset](http://scdb.wustl.edu/data.php) of past Supreme Court Cases for its breadth of data values and relevance to our current times. <br />
-Of the available dataset variations, we chose Case-Centered Data since we were focusing on the outcomes of specific cases. 
+Of the available dataset variations, we chose Case-Centered Data, which focused on the outcomes of specific cases. 
 
 ### Project & Technologies
 All of our work was done on Deepnote, an virtual platform with processing power that allows for real-time collaboration. We created several notebooks in this environment: the first hosts our initial data loading, processing, and feature selection attempts (including our heatmap). The deep-learning notebook includes our neural network, and the pipeline notebook includes our exploratory data analysis, the sklearn pipeline we built for data processing, and our supervised learning models as well as their results. 
-  
+
 View it and see the results here:  
 #### [Supreme Court Predictor](https://deepnote.com/join-team?token=02d34e715c9e4f6)
 
