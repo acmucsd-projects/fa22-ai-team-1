@@ -1,5 +1,7 @@
 # The Hacktivists
 ## Supreme Court Predictor
+![image](https://user-images.githubusercontent.com/86854157/213305775-61c3d014-33db-4316-a4ae-07cbb8a7332f.png)
+*Image from Wikipedia*
 ### Background
 Debates around the legitimacy of the Supreme Court and the uproar over Roe v. Wade towards the later half of last year influenced us greatly as we were brainstorming ideas for our introductory machine learning project. When we poured through our options and studied the uses of AI, we arrived upon a question we were curious on finding the answer to: can the predictive power of machine learning be used to predict the outcomes of Supreme Court cases?
 
