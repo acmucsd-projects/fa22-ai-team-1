@@ -18,8 +18,13 @@ Check out our full process description and list of models right [here](https://d
 
 ### Authors
 Ada He | [LinkedIn](https://www.linkedin.com/in/adahe0908/) | [Github](https://github.com/adahe8). 
-Nitya Pillar | [LinkedIn](https://www.linkedin.com/in/nitya-p-087b431ab) | [Github](https://github.com/nbpillai). 
+
+Nitya Pillar | [LinkedIn](https://www.linkedin.com/in/nitya-p-087b431ab) | [Github](https://github.com/nbpillai).
+
 Jenny Mar | [LinkedIn](www.linkedin.com/in/jenny-mar-13158225a) | [Github](https://github.com/jennymar). 
+
 Han Hoang | [LinkedIn](https://www.linkedin.com/in/hanhoangia/) ! [Github](https://github.com/hanhoangia). 
+
 Serena Cheng | [LinkedIn](www.linkedin.com/in/serenachen6) | [Github](https://github.com/schen126)  
+
 Rushil Chandrupatla
