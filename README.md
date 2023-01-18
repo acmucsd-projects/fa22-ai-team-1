@@ -3,11 +3,11 @@
 ![image](https://user-images.githubusercontent.com/86854157/213305775-61c3d014-33db-4316-a4ae-07cbb8a7332f.png)
 *Image from Wikipedia*
 ### Table of Contents
-* Background
-* Dataset
-* Project and Technologies
-* Presentation
-* Authors
+* [Background] (https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#background)
+* [Dataset] (https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#dataset)
+* [Project and Technologies] (https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#project--technologies)
+* [Presentation] (https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#presentation)
+* [Authors] (https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#authors)
 
 ### Background
 Debates around the legitimacy of the Supreme Court and the uproar over Roe v. Wade towards the later half of 2022 influenced us greatly as we brainstormed ideas for our introductory machine learning project. As we pored through our options and studied the uses of AI, we arrived upon this project: can the predictive power of machine learning be used to predict the outcomes of Supreme Court cases?
