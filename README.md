@@ -5,6 +5,7 @@
 ### Table of Contents
 * [Background](https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#background)
 * [Dataset](https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#dataset)
+* [Challenges](https://github.com/acmucsd-projects/fa22-ai-team-1/edit/main/README.md#challenges)
 * [Project and Technologies](https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#project--technologies)
 * [Presentation](https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#presentation)
 * [Authors](https://github.com/acmucsd-projects/fa22-ai-team-1/blob/main/README.md#authors)
