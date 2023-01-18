@@ -11,7 +11,7 @@ Of the available dataset variations, we chose Case-Centered Data since we were f
 All of our work was done on Deepnote, an virtual platform with processing power that allows for real-time collaboration. We created several notebooks in this environment: the first hosts our initial data loading, processing, and feature selection attempts (including our heatmap). The deep-learning notebook includes our neural network, and the pipeline notebook includes our exploratory data analysis, the sklearn pipeline we built for data processing, and our supervised learning models as well as their results. 
   
 View it and see the results here:  
-#### [Supreme Court Predictor](http://scdb.wustl.edu/data.php)
+#### [Supreme Court Predictor](https://deepnote.com/join-team?token=02d34e715c9e4f6)
 
 ### Presentation
 Check out our full process description and list of models right [here](https://docs.google.com/presentation/d/1qANpLZvhv5F0lOkbUxtlJU5UF4KqsDzuy0Dy6E2BG-0/edit?usp=sharing)!
